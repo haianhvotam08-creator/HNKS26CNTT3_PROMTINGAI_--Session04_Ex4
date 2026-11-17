@@ -1,0 +1,13 @@
+{
+  "status": "ERROR",
+  "error_code": "EMPTY_OR_NOISE_REVIEW",
+  "analysis_steps": {
+    "step_1": "Phát hiện nội dung review là ký tự rác, vi phạm điều kiện đầu vào."
+  },
+  "result": {
+    "sentiment": null,
+    "category": null,
+    "priority_level": "LOW",
+    "action_suggested": "Đưa vào hàng đợi kiểm tra thủ công, không làm crash hệ thống."
+  }
+}
